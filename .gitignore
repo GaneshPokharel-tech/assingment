@@ -211,4 +211,8 @@ __marimo__/
 Assignment/assingment/
 =======
 .DS_Store
+<<<<<<< HEAD
 >>>>>>> 18d6881 (Ignore .DS_Store)
+=======
+.DS_Store
+>>>>>>> 2207700 (Ignore .DS_Store)
